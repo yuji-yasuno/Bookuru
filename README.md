@@ -95,6 +95,11 @@ Google Mapsアプリで道案内もばっちり！これで迷子になること
 wifiがあればネットを利用して調べ物もできてしまいます。
 <img src="https://dl.dropboxusercontent.com/u/37986965/Bookuru/IMG_2511.PNG" alt="ぶっくるスクリーンショット" style="display: block; margin: 10px; width: 320px; height: auto;"/>
 
+## インストール（salesforceで使うオブジェクトのみ）
+このアプリで利用しているオブジェクトを以下のリンクからインストールする事ができます。
+[開発者用の組織を取得](https://developer.salesforce.com/signup)して是非試してみてください。
+[インストールURL](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t10000000FkEX)
+
 ## 最後に
 このアプリを作成するために以下の3つのライブラリを利用しました。
 非常に使い勝手がいいので是非利用してみてください。
